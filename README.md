@@ -13,14 +13,23 @@ This library has 100% base in Google Mobile Vision API, over this, we construct 
 
 The scope of this library it's create easiest OCR Readers, CodaBar &amp; QR Scanners and face recognitions with faster implementation.
 
-Our architecture:
+### Our architecture:
 
 <p align="center">
   <img src="https://github.com/nalancer08/Mobile-Computer-Vision---MCV/blob/master/Images/Architecture/Arquitectura_General.png">
 </p>
 
-OCR module:
+#### OCR module:
 
 <p align="center">
   <img src="https://github.com/nalancer08/Mobile-Computer-Vision---MCV/blob/master/Images/Architecture/OCR_General.png">
 </p>
+
+#### FaceRecognition
+
+#### CodeScanner
+
+## Android Setup
+
+It's highly recommended in your manifest activate "accelerate hardware", 'cause if it's possible to use de GPU to help the CPU, the process gonna be faster.
+
