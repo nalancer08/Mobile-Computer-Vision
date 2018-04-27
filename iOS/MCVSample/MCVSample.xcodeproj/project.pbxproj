@@ -14,7 +14,7 @@
 		CA5D1D4820936C6500A5F2EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA5D1D4620936C6500A5F2EC /* LaunchScreen.storyboard */; };
 		CA5D1D5320936C6500A5F2EC /* MCVSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5D1D5220936C6500A5F2EC /* MCVSampleTests.swift */; };
 		CA5D1D5E20936C6500A5F2EC /* MCVSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5D1D5D20936C6500A5F2EC /* MCVSampleUITests.swift */; };
-		CA5D1D732093744200A5F2EC /* MobileComputerVision.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA5D1D722093744200A5F2EC /* MobileComputerVision.framework */; };
+		CA5D1D882093B6DD00A5F2EC /* MobileComputerVision.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA5D1D872093B6DD00A5F2EC /* MobileComputerVision.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		CA5D1D5920936C6500A5F2EC /* MCVSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MCVSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA5D1D5D20936C6500A5F2EC /* MCVSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MCVSampleUITests.swift; sourceTree = "<group>"; };
 		CA5D1D5F20936C6500A5F2EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CA5D1D722093744200A5F2EC /* MobileComputerVision.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MobileComputerVision.framework; sourceTree = "<group>"; };
+		CA5D1D872093B6DD00A5F2EC /* MobileComputerVision.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MobileComputerVision.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CA5D1D732093744200A5F2EC /* MobileComputerVision.framework in Frameworks */,
+				CA5D1D882093B6DD00A5F2EC /* MobileComputerVision.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -132,7 +132,7 @@
 		CA5D1D6B209370B700A5F2EC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				CA5D1D722093744200A5F2EC /* MobileComputerVision.framework */,
+				CA5D1D872093B6DD00A5F2EC /* MobileComputerVision.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -452,6 +452,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = com.appbuilders.MCVSample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -473,6 +474,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = com.appbuilders.MCVSample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;

@@ -14,6 +14,18 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         
         super.viewDidLoad();
+        
+        let image = UIImage(named: "ocr");
+        if ((image) != nil) {
+            print("Image exists");
+        } else {
+            print("Image doesnt exists");
+        }
+        
+        /*let detector = TextDetector.init(controller: self);
+        let text = detector.startWithImage(image: image).getText();
+        print("Readed text :: ", text);*/
+        
     }
 
     override func didReceiveMemoryWarning() {
