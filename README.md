@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nalancer08/Arduino-Interface-Builder/blob/master/logo.jpeg">
+<img src="https://github.com/nalancer08/ABAIS/blob/master/logo.png">
 </p>
 
 # Mobile-Computer-Vision (MCV)
