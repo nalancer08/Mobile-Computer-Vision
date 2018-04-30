@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "9acf9be80500cac2fe0a8e2e90ca09e7"
+build_time: [1525118486, 165894000]
+inputs:
+  "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/MobileComputerVision/Detector/TextDetector.swift": [1525117545, 0]
+  "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/MobileComputerVision/MCV.swift": [1524854503, 0]

@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
-options: "18e448a22d6e2e85b312bc8fd9078dc0"
-build_time: [1524858586, 645031000]
+options: "a874b527bb5d74b53bd2c387cb660599"
+build_time: [1525118487, 895739000]
 inputs:
-  "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/MobileComputerVision/MCV.swift": [1524854503, 0]
-  "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/MobileComputerVision/Detector/TextDetector.swift": [1524854519, 0]
+  "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/MobileComputerVision/MCV.swift": [1524854503, 0]
+  "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/MobileComputerVision/Detector/TextDetector.swift": [1525117545, 0]

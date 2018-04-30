@@ -3,11 +3,11 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': '/Users/strategicimpactsolutions1/Library/Developer/Xcode/DerivedData/MobileComputerVision-ftzouneodwhcxlapvtamtsrfplzl/Build/Products/Debug-iphoneos/MobileComputerVision.framework/Modules'
+    'name': '/Users/strategicimpactsolutions1/Library/Developer/Xcode/DerivedData/MobileComputerVision-ausfpopampgqyybnxxfzuarfpkos/Build/Products/Debug-iphoneos/MobileComputerVision.framework/Modules'
     'contents': [{
       'type': 'file',
       'name': 'module.modulemap',
-      'external-contents': '/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/build/MobileComputerVision.build/Debug-iphoneos/MobileComputerVision.build/unextended-module.modulemap',
+      'external-contents': '/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/build/MobileComputerVision.build/Debug-iphoneos/MobileComputerVision.build/unextended-module.modulemap',
     }]
   }]
 }

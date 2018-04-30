@@ -4,28 +4,28 @@
   'roots': [
     {
       'type': 'directory',
-      'name': "/Users/strategicimpactsolutions1/Library/Developer/Xcode/DerivedData/MobileComputerVision-ftzouneodwhcxlapvtamtsrfplzl/Build/Products/Debug-iphonesimulator/MobileComputerVision.framework/Headers",
+      'name': "/Users/strategicimpactsolutions1/Library/Developer/Xcode/DerivedData/MobileComputerVision-ausfpopampgqyybnxxfzuarfpkos/Build/Products/Debug-iphonesimulator/MobileComputerVision.framework/Headers",
       'contents': [
         {
           'type': 'file',
           'name': "MobileComputerVision-Swift.h",
-          'external-contents': "/Users/strategicimpactsolutions1/Library/Developer/Xcode/DerivedData/MobileComputerVision-ftzouneodwhcxlapvtamtsrfplzl/Build/Products/Debug-iphonesimulator/MobileComputerVision.framework/Headers/MobileComputerVision-Swift.h"
+          'external-contents': "/Users/strategicimpactsolutions1/Library/Developer/Xcode/DerivedData/MobileComputerVision-ausfpopampgqyybnxxfzuarfpkos/Build/Products/Debug-iphonesimulator/MobileComputerVision.framework/Headers/MobileComputerVision-Swift.h"
         },
         {
           'type': 'file',
           'name': "MobileComputerVision.h",
-          'external-contents': "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/MobileComputerVision/MobileComputerVision.h"
+          'external-contents': "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/MobileComputerVision/MobileComputerVision.h"
         }
       ]
     },
     {
       'type': 'directory',
-      'name': "/Users/strategicimpactsolutions1/Library/Developer/Xcode/DerivedData/MobileComputerVision-ftzouneodwhcxlapvtamtsrfplzl/Build/Products/Debug-iphonesimulator/MobileComputerVision.framework/Modules",
+      'name': "/Users/strategicimpactsolutions1/Library/Developer/Xcode/DerivedData/MobileComputerVision-ausfpopampgqyybnxxfzuarfpkos/Build/Products/Debug-iphonesimulator/MobileComputerVision.framework/Modules",
       'contents': [
         {
           'type': 'file',
           'name': "module.modulemap",
-          'external-contents': "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/build/MobileComputerVision.build/Debug-iphonesimulator/MobileComputerVision.build/module.modulemap"
+          'external-contents': "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/build/MobileComputerVision.build/Debug-iphonesimulator/MobileComputerVision.build/module.modulemap"
         }
       ]
     }

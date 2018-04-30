@@ -1,0 +1,11 @@
+framework module MobileComputerVision {
+  umbrella header "MobileComputerVision.h"
+
+  export *
+  module * { export * }
+}
+
+module MobileComputerVision.Swift {
+    header "MobileComputerVision-Swift.h"
+    requires objc
+}

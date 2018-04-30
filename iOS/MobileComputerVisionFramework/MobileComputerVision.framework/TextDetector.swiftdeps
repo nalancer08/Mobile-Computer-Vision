@@ -1,0 +1,216 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TextDetector"
+provides-nominal:
+- "20MobileComputerVision12TextDetectorC"
+provides-member:
+- ["20MobileComputerVision12TextDetectorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "+="
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Detector"
+- !private "GMVDetector"
+- "GMVTextBlockFeature"
+- "MCV"
+- "String"
+- "StringLiteralType"
+- "TextDetector"
+- "UIImage"
+- "UIViewController"
+- !private "~="
+depends-member:
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "features"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "value"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "features"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "features"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- ["s9DecodableP", "init"]
+- !private ["20MobileComputerVision8DetectorC", "getDetectorProvider"]
+- !private ["20MobileComputerVision8DetectorC", "text"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "features"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "value"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s23ExpressibleByNilLiteralP", "none"]
+- ["s23ExpressibleByNilLiteralP", "some"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So11GMVDetectorC", "features"]
+- !private ["So10GMVFeatureC", "value"]
+- !private ["So19GMVTextBlockFeatureC", "value"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "features"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "value"]
+- ["SQ", "none"]
+- ["SQ", "some"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["20MobileComputerVision3MCVC", "Detector"]
+- !private ["20MobileComputerVision3MCVC", "GMV"]
+- !private ["20MobileComputerVision3MCVC", "GMVDetector"]
+- ["20MobileComputerVision3MCVC", "GMVTextBlockFeature"]
+- !private ["20MobileComputerVision3MCVC", "MCV"]
+- ["20MobileComputerVision3MCVC", "String"]
+- ["20MobileComputerVision3MCVC", "TextDetector"]
+- ["20MobileComputerVision3MCVC", "UIImage"]
+- ["20MobileComputerVision3MCVC", "UIViewController"]
+- ["20MobileComputerVision3MCVC", ""]
+- !private ["20MobileComputerVision3MCVC", "getDetector"]
+- ["20MobileComputerVision3MCVC", "getText"]
+- ["20MobileComputerVision3MCVC", "init"]
+- !private ["20MobileComputerVision3MCVC", "initDectector"]
+- ["20MobileComputerVision3MCVC", "mDetector"]
+- !private ["20MobileComputerVision3MCVC", "mProvider"]
+- ["20MobileComputerVision3MCVC", "mText"]
+- ["20MobileComputerVision3MCVC", "parseGMVFeatures"]
+- ["20MobileComputerVision3MCVC", "startWithImage"]
+- ["s10MirrorPathP", "init"]
+- !private ["So8NSObjectC", "features"]
+- !private ["So8NSObjectC", "value"]
+- !private ["So16NSObjectProtocolP", "features"]
+- !private ["So16NSObjectProtocolP", "value"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["s8SequenceP", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["20MobileComputerVision12TextDetectorC", "Detector"]
+- !private ["20MobileComputerVision12TextDetectorC", "GMVDetector"]
+- ["20MobileComputerVision12TextDetectorC", "GMVTextBlockFeature"]
+- !private ["20MobileComputerVision12TextDetectorC", "MCV"]
+- ["20MobileComputerVision12TextDetectorC", "String"]
+- ["20MobileComputerVision12TextDetectorC", "TextDetector"]
+- ["20MobileComputerVision12TextDetectorC", "UIImage"]
+- ["20MobileComputerVision12TextDetectorC", "UIViewController"]
+- ["20MobileComputerVision12TextDetectorC", "deinit"]
+- !private ["20MobileComputerVision12TextDetectorC", "getDetector"]
+- ["20MobileComputerVision12TextDetectorC", "getText"]
+- ["20MobileComputerVision12TextDetectorC", "init"]
+- !private ["20MobileComputerVision12TextDetectorC", "initDectector"]
+- !private ["20MobileComputerVision12TextDetectorC", "mDetector"]
+- !private ["20MobileComputerVision12TextDetectorC", "mProvider"]
+- !private ["20MobileComputerVision12TextDetectorC", "mText"]
+- !private ["20MobileComputerVision12TextDetectorC", "parseGMVFeatures"]
+- ["20MobileComputerVision12TextDetectorC", "startWithImage"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "features"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "none"]
+- ["s21_ObjectiveCBridgeableP", "some"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "20MobileComputerVision8DetectorC"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So11GMVDetectorC"
+- !private "So10GMVFeatureC"
+- !private "So19GMVTextBlockFeatureC"
+- "s8HashableP"
+- "SQ"
+- "s25LosslessStringConvertibleP"
+- "20MobileComputerVision3MCVC"
+- "s10MirrorPathP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "20MobileComputerVision12TextDetectorC"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GMVFeature.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GoogleMobileVision.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/MobileComputerVision/MobileComputerVision.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GMVDetector.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GMVDetectorConstants.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GMVUtility.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/build/MobileComputerVision.build/Debug-iphoneos/MobileComputerVision.build/unextended-module.modulemap"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision/iOS/MobileComputerVisionFramework/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "34d71802f82f698e9b164880c196fbb6"
