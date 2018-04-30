@@ -1,0 +1,183 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MCV"
+- "Detector"
+provides-nominal:
+- "20MobileComputerVision3MCVC"
+- "20MobileComputerVision8DetectorC"
+provides-member:
+- ["20MobileComputerVision3MCVC", ""]
+- ["20MobileComputerVision8DetectorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Detector"
+- "GMVDetector"
+- "MCV"
+- "String"
+- "StringLiteralType"
+- "UIViewController"
+- !private "~="
+depends-member:
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "init"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- ["s9DecodableP", "init"]
+- !private ["20MobileComputerVision8DetectorC", "Detector"]
+- ["20MobileComputerVision8DetectorC", "GMVDetector"]
+- !private ["20MobileComputerVision8DetectorC", "MCV"]
+- ["20MobileComputerVision8DetectorC", "String"]
+- ["20MobileComputerVision8DetectorC", "code"]
+- ["20MobileComputerVision8DetectorC", "deinit"]
+- ["20MobileComputerVision8DetectorC", "getDetectorProvider"]
+- !private ["20MobileComputerVision8DetectorC", "gmvDetector"]
+- ["20MobileComputerVision8DetectorC", "image"]
+- ["20MobileComputerVision8DetectorC", "init"]
+- !private ["20MobileComputerVision8DetectorC", "initFactory"]
+- !private ["20MobileComputerVision8DetectorC", "mDetector"]
+- !private ["20MobileComputerVision8DetectorC", "mDetectorType"]
+- !private ["20MobileComputerVision8DetectorC", "mProvider"]
+- ["20MobileComputerVision8DetectorC", "text"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- ["s9EquatableP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s23ExpressibleByNilLiteralP", "none"]
+- ["s23ExpressibleByNilLiteralP", "some"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So11GMVDetectorC", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- ["s8HashableP", "init"]
+- ["SQ", "none"]
+- ["SQ", "some"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["20MobileComputerVision3MCVC", "Detector"]
+- ["20MobileComputerVision3MCVC", "GMV"]
+- ["20MobileComputerVision3MCVC", "String"]
+- ["20MobileComputerVision3MCVC", "UIViewController"]
+- ["20MobileComputerVision3MCVC", "deinit"]
+- ["20MobileComputerVision3MCVC", "getController"]
+- ["20MobileComputerVision3MCVC", "getDetector"]
+- ["20MobileComputerVision3MCVC", "init"]
+- ["20MobileComputerVision3MCVC", "initDectector"]
+- !private ["20MobileComputerVision3MCVC", "mController"]
+- !private ["20MobileComputerVision3MCVC", "mDector"]
+- ["20MobileComputerVision3MCVC", "mProvider"]
+- ["s10MirrorPathP", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So16NSObjectProtocolP", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["s8SequenceP", "init"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "none"]
+- ["s21_ObjectiveCBridgeableP", "some"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "20MobileComputerVision8DetectorC"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So11GMVDetectorC"
+- "s8HashableP"
+- "SQ"
+- "s25LosslessStringConvertibleP"
+- "20MobileComputerVision3MCVC"
+- "s10MirrorPathP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GMVFeature.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GoogleMobileVision.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/MobileComputerVision/MobileComputerVision.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GMVDetector.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GMVDetectorConstants.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Headers/GMVUtility.h"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/build/MobileComputerVision.build/Debug-iphonesimulator/MobileComputerVision.build/unextended-module.modulemap"
+- "/Users/strategicimpactsolutions1/Documents/Erick/Github/Mobile-Computer-Vision---MCV/iOS/MobileComputerVision/Pods/GoogleMobileVision/Detector/Frameworks/GoogleMobileVision.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "4bbe3a24eb453a8184c30a1e824c72b8"

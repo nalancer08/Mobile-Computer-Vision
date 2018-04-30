@@ -1,0 +1,10 @@
+framework module MobileComputerVision {
+  umbrella header "MobileComputerVision.h"
+
+  export *
+  module * { export * }
+}
+
+module MobileComputerVision.__Swift {
+    exclude header "MobileComputerVision-Swift.h"
+}

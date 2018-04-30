@@ -6,3 +6,6 @@
 .DS_Store
 /build
 /captures
+/iOS/MobileComputerVisionFramework/Pods/
+/iOS/MobileComputerVision/Pods/
+
