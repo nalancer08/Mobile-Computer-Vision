@@ -15,16 +15,21 @@ The scope of this library it's create easiest OCR Readers, CodaBar &amp; QR Scan
 
 ## iOS Setup
 
+### Only use the latest version
+
 ### Compile and use the framework
 
-To compile the framework remeber open the **MobileComputerVision.xcworkspace** file.
+To compile the framework open the **MobileComputerVision.xcworkspace** file.
 To begging to compile, first select **MobileComputerVision** project target and build ```command + b```, then select Generic iOS device and build ```commad + b```. 
 After those steps, select **GMV** target with Generic iOS device and build ```commad + b```.
 
 Then into your project folder gonna appear **MobileComputerVision.framework**, this file have to be added into your project app.
 
+## Andoid Setup
 
+### Install your dependencie
 
+We don't gonna use jCenter global, so please add to the current link to mavenCentral()
 
 
 
